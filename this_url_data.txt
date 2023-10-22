@@ -1,0 +1,26 @@
+{
+    "odometr_from": "40000",
+    "odometr_to": "159000",
+    "year_min": "1987",
+    "year_max": "2019",
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "main-url": "Normal Wear",
+    "urls": [
+        "https://www.copart.com/lot/56527603/clean-title-2008-volkswagen-jetta-wolfsburg-nj-trenton",
+        "https://www.copart.com/lot/70036173/clean-title-2009-volkswagen-jetta-s-nj-trenton",
+        "https://www.copart.com/lot/69597613/clean-title-2012-volkswagen-jetta-se-ny-newburgh",
+        "https://www.copart.com/lot/71440503/clean-title-2013-volkswagen-jetta-tdi-tx-dallas",
+        "https://www.copart.com/lot/67756783/salvage-2009-volkswagen-jetta-wolfsburg-ca-san-diego",
+        "https://www.copart.com/lot/71405913/clean-title-2006-volkswagen-jetta-2-5-option-package-1-ma-north-boston",
+        "https://www.copart.com/lot/67391323/clean-title-2005-volkswagen-jetta-gl-ca-san-bernardino",
+        "https://www.copart.com/lot/71902383/clean-title-2015-volkswagen-jetta-base-va-danville",
+        "https://www.copart.com/lot/70952123/clean-title-2011-volkswagen-jetta-se-az-tucson",
+        "https://www.copart.com/lot/65564903/clean-title-2014-volkswagen-jetta-base-vt-rutland",
+        "https://www.copart.com/lot/53200533/2012-volkswagen-jetta-se-ny-newburgh",
+        "https://www.copart.com/lot/70161413/salvage-2011-volkswagen-jetta-se-il-chicago-north",
+        "https://www.copart.com/lot/55793632/2012-volkswagen-jetta-tdi-va-hampton",
+        "https://www.copart.com/lot/61609622/2019-volkswagen-jetta-s-tx-el-paso",
+        "https://www.copart.com/lot/67300912/2019-volkswagen-jetta-s-mo-st-louis"
+    ]
+}
